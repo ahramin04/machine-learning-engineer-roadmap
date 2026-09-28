@@ -1,0 +1,15 @@
+name: Project improvement
+description: Suggest an improvement to a project or roadmap stage
+body:
+  - type: input
+    id: project
+    attributes:
+      label: Project or stage
+    validations:
+      required: true
+  - type: textarea
+    id: improvement
+    attributes:
+      label: Improvement
+    validations:
+      required: true
