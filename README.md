@@ -33,6 +33,9 @@ A build-first path from ML fundamentals to production machine-learning systems.
 - [Docker](https://docs.docker.com/get-started/)
 - [Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
 
+## Study Hub
+[Stage-by-stage courses, YouTube lectures, blogs, documentation and hands-on resources](./resources/STUDY-HUB.md)
+
 ## 50 projects
 [Open the complete project map](./PROJECTS.md).
 
